@@ -1,0 +1,114 @@
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Lazy Tweet.exe.config
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Lazy Tweet.exe
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Lazy Tweet.pdb
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Autofac.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Buffers.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Memory.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Core.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Security.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Autofac.pdb
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Autofac.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Buffers.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Memory.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Controllers.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Core.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Credentials.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Logic.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.Streams.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\bin\Debug\Tweetinvi.WebLogic.xml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.AssemblyReference.cache
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\MainWindow.baml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Own Tweet.baml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Tweet_success.baml
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\MainWindow.g.cs
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Own Tweet.g.cs
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Tweet_success.g.cs
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\App.g.cs
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweet_MarkupCompile.cache
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweet_MarkupCompile.lref
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweet.g.resources
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy_Tweet.Properties.Resources.resources
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.GenerateResource.cache
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.CoreCompileInputs.cache
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.CopyComplete
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweet.exe
+C:\Users\brigadnik\OneDrive - sstebrno.cz\Třeták\Programování\IT3B\Rocnikova_prace\Lazy Tweet\obj\Debug\Lazy Tweet.pdb
+D:\Projects\Lazy Tweet\bin\Debug\Lazy Tweet.exe.config
+D:\Projects\Lazy Tweet\bin\Debug\Lazy Tweet.exe
+D:\Projects\Lazy Tweet\bin\Debug\Lazy Tweet.pdb
+D:\Projects\Lazy Tweet\bin\Debug\Autofac.dll
+D:\Projects\Lazy Tweet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Lazy Tweet\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Buffers.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Memory.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Lazy Tweet\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Controllers.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Core.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Credentials.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Logic.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Security.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Streams.dll
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.WebLogic.dll
+D:\Projects\Lazy Tweet\bin\Debug\Autofac.pdb
+D:\Projects\Lazy Tweet\bin\Debug\Autofac.xml
+D:\Projects\Lazy Tweet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\Lazy Tweet\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Buffers.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Memory.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Reflection.TypeExtensions.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Lazy Tweet\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Controllers.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Core.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Credentials.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Logic.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.Streams.xml
+D:\Projects\Lazy Tweet\bin\Debug\Tweetinvi.WebLogic.xml
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.AssemblyReference.cache
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Lazy Tweet\obj\Debug\MainWindow.g.cs
+D:\Projects\Lazy Tweet\obj\Debug\Own Tweet.g.cs
+D:\Projects\Lazy Tweet\obj\Debug\Tweet_success.g.cs
+D:\Projects\Lazy Tweet\obj\Debug\App.g.cs
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweet_MarkupCompile.cache
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweet_MarkupCompile.lref
+D:\Projects\Lazy Tweet\obj\Debug\MainWindow.baml
+D:\Projects\Lazy Tweet\obj\Debug\Own Tweet.baml
+D:\Projects\Lazy Tweet\obj\Debug\Tweet_success.baml
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweet.g.resources
+D:\Projects\Lazy Tweet\obj\Debug\Lazy_Tweet.Properties.Resources.resources
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.GenerateResource.cache
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.CoreCompileInputs.cache
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweeter.csproj.CopyComplete
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweet.exe
+D:\Projects\Lazy Tweet\obj\Debug\Lazy Tweet.pdb

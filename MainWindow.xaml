@@ -1,0 +1,60 @@
+﻿<Window x:Class="Lazy_Tweet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lazy_Tweet"
+        mc:Ignorable="d"
+        Title="Lazy Tweeter" Height="750" Width="1000"
+        WindowStartupLocation="CenterScreen" Background="#AAB8C2" Foreground="#1DA1F2"
+        FontFamily="Segoe UI SemiBold Italic">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Margin="20" Source="/Twitter-logo.png" Stretch="Uniform"/>
+        <TextBlock Name="Title" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="105">Lazy Tweeter</TextBlock>
+        <TextBlock Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5" FontSize="50" Grid.ColumnSpan="2">Today I feel:</TextBlock>
+
+        <StackPanel Grid.Row="3" Margin="70,10,10,10" VerticalAlignment="Center" HorizontalAlignment="Left">
+            <RadioButton Name="happy" GroupName="mood" IsChecked="True" Foreground="#1DA1F2" FontFamily="Segoe UI SemiBold Italic" FontSize="45" VerticalContentAlignment="Center">Happy</RadioButton>
+            <RadioButton Name="sad" GroupName="mood" Foreground="#1DA1F2" FontFamily="Segoe UI SemiBold Italic" FontSize="45" VerticalContentAlignment="Center">Sad</RadioButton>
+            <RadioButton Name="angry" GroupName="mood" Foreground="#1DA1F2" FontFamily="Segoe UI SemiBold Italic" FontSize="45" VerticalContentAlignment="Center">Angry</RadioButton>
+            <RadioButton Name="disgusted" GroupName="mood" Foreground="#1DA1F2" FontFamily="Segoe UI SemiBold Italic" FontSize="45" VerticalContentAlignment="Center">Disgusted</RadioButton>
+            <RadioButton Name="empty" GroupName="mood" Foreground="#1DA1F2" FontFamily="Segoe UI SemiBold Italic" FontSize="45" VerticalContentAlignment="Center">Empty</RadioButton>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10,10,70,10" Orientation="Vertical">
+            <Button Width="350" Margin="20" Height="120" Background="#1DA1F2" Name="ownTweet" Content="Own Tweet" Foreground="White" FontFamily="Segoe UI SemiBold Italic" FontSize="65" Click="ownTweet_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Width="350" Margin="20" Height="120" Background="#1DA1F2" Name="account" Content="Account" Foreground="White" FontFamily="Segoe UI SemiBold Italic" FontSize="65" Click="account_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Width="350" Margin="20" Height="120" Background="#1DA1F2" Name="tweet" Content="Tweet" Foreground="White" FontFamily="Segoe UI SemiBold Italic" FontSize="65" Click="tweet_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+
+        <TextBlock Name="Name" Grid.Row="3" VerticalAlignment="Bottom" FontSize="25" Margin="15" Text="{Binding USER}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,41 @@
+﻿<Window x:Class="Lazy_Tweet.Own_Tweet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lazy_Tweet"
+        mc:Ignorable="d"
+        Title="Own Tweet" Height="320" Width="950"
+        WindowStartupLocation="CenterScreen" Background="#AAB8C2" Foreground="#1DA1F2"
+        FontFamily="Segoe UI SemiBold Italic">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Name="TextTest" VerticalAlignment="Center" Margin="20" FontSize="63">Write your tweet:</TextBlock>
+
+        <Button Name="addButton" Grid.Column="1" Height="40" Width="150" Content="Přiložit obrázek" Background="#1DA1F2" Foreground="White" FontFamily="Segoe UI SemiBold Italic" FontSize="20" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+        <TextBox Name="tb_own" Grid.Row="1" Margin=" 20" Height="120" VerticalAlignment="Center" Foreground="#1DA1F2" FontSize="20" Padding="5"/>
+        <Button Grid.Column="1" Grid.Row="1" Width="350" Margin="20" Height="120" Background="#1DA1F2" Name="tweet" Content="Tweet" Foreground="White" FontFamily="Segoe UI SemiBold Italic" FontSize="65" Click="tweet_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+</Window>

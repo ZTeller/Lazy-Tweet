@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lazy_Tweet.Tweet_success"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lazy_Tweet"
+        mc:Ignorable="d"
+        Title="Tweet_success" Height="250" Width="500"
+        WindowStartupLocation="CenterScreen" Background="#AAB8C2" Foreground="#1DA1F2"
+        FontFamily="Segoe UI SemiBold Italic">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="45">Tweet succesfully sent!!!</TextBlock>
+        <Button Grid.Row="1" Width="250" Height="85" Content="OK" Foreground="#1DA1F2" FontSize="45" Click="Button_Click"/>
+
+    </Grid>
+</Window>
